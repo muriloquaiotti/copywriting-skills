@@ -1,0 +1,74 @@
+{
+  "title": "Quick Start Copywriting — Volume 2",
+  "author": "Clayton Makepeace e The Profit Center",
+  "source_sha256": "8159a7c539333b0f22c3b69a99d691fdeedb9a436d0c18014809d99ab5e5fd74",
+  "pdf_pages": 353,
+  "edition_note": "Volume 2, AWAI, 2013. O conteúdo está em inglês apesar do nome do arquivo indicar Português. Esta skill é uma síntese em português dos capítulos 15–23 e do glossário.",
+  "converter": {
+    "repository": "https://github.com/virgiliojr94/book-to-skill",
+    "commit": "a24e62f4d8caf2ee433f6e48d9073800f56f906e",
+    "mode": "text"
+  },
+  "extraction": "Extração local do texto nativo pelo book-to-skill/scripts/extract.py em modo text; conferência de páginas com PyMuPDF.",
+  "generated": "2026-10-23",
+  "language": "pt-BR",
+  "coverage": [
+    {
+      "chapter": 15,
+      "title": "Onze formas de manter a leitura em movimento",
+      "pdf_pages": "7–40",
+      "source_section": "capítulo 15"
+    },
+    {
+      "chapter": 16,
+      "title": "Bullets e fascinations irresistíveis",
+      "pdf_pages": "41–76",
+      "source_section": "capítulo 16"
+    },
+    {
+      "chapter": 17,
+      "title": "Fechamento: transformar interesse em pedido",
+      "pdf_pages": "77–112",
+      "source_section": "capítulo 17"
+    },
+    {
+      "chapter": 18,
+      "title": "Dez formas de fortalecer a apresentação da garantia",
+      "pdf_pages": "113–146",
+      "source_section": "capítulo 18"
+    },
+    {
+      "chapter": 19,
+      "title": "Lift notes, sidebars e e-mails de apoio",
+      "pdf_pages": "147–178",
+      "source_section": "capítulo 19"
+    },
+    {
+      "chapter": 20,
+      "title": "Estudar controles e usar um swipe file",
+      "pdf_pages": "179–214",
+      "source_section": "capítulo 20"
+    },
+    {
+      "chapter": 21,
+      "title": "Criar vínculo com o comprador",
+      "pdf_pages": "215–250",
+      "source_section": "capítulo 21"
+    },
+    {
+      "chapter": 22,
+      "title": "Vender produtos de informação",
+      "pdf_pages": "251–282",
+      "source_section": "capítulo 22"
+    },
+    {
+      "chapter": 23,
+      "title": "Encerramento: montar e revisar a promoção",
+      "pdf_pages": "283–286",
+      "source_section": "capítulo 23"
+    }
+  ],
+  "limitations": "A fonte contém somente o volume 2: capítulos 15–23 e glossário. Não cobre os capítulos 1–14 nem o vídeo Copy Autopsy mencionado no encerramento. A numeração original foi preservada. Os títulos e métodos foram traduzidos e sintetizados; as páginas citadas são as físicas do PDF, não as impressas. Algumas reproduções de anúncios são imagens; a síntese se apoia na explicação legível do autor. As técnicas de correspondência impressa podem ser adaptadas a meios digitais, identificando a adaptação.",
+  "content": "Síntese operacional; não contém o texto integral do livro.",
+  "packaging": "Referência incorporada à skill copywriting; nome local do PDF omitido. O hash identifica a edição utilizada."
+}

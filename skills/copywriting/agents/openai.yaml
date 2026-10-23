@@ -1,0 +1,6 @@
+interface:
+  display_name: "Copywriting — Anúncios, VSLs e Páginas"
+  short_description: "Criação e análise de copy para anúncios e sites"
+  default_prompt: "Use $copywriting para analisar esta landing page e reescrever os trechos com maior prioridade de melhoria."
+policy:
+  allow_implicit_invocation: true

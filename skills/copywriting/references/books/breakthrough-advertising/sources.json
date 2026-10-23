@@ -1,0 +1,104 @@
+{
+  "title": "Breakthrough Advertising",
+  "author": "Eugene M. Schwartz",
+  "source_sha256": "9855e237675e7f22985972cb6375a84a13d37dd77d55ed1606c4bd367abffebc",
+  "pdf_pages": 102,
+  "edition_note": "Tradução resumida PT-BR, Copy Classics, 102 páginas; obra original de 1966.",
+  "converter": {
+    "repository": "https://github.com/virgiliojr94/book-to-skill",
+    "commit": "a24e62f4d8caf2ee433f6e48d9073800f56f906e",
+    "mode": "text"
+  },
+  "extraction": "book-to-skill/scripts/extract.py com pypdf; índice revisado manualmente contra o PDF.",
+  "generated": "2026-10-23",
+  "language": "pt-BR",
+  "coverage": [
+    {
+      "chapter": 1,
+      "title": "Desejo de massa",
+      "pdf_pages": "14–21",
+      "source_section": "capítulo 1"
+    },
+    {
+      "chapter": 2,
+      "title": "Estados de consciência",
+      "pdf_pages": "22–31",
+      "source_section": "capítulo 2"
+    },
+    {
+      "chapter": 3,
+      "title": "Sofisticação do mercado",
+      "pdf_pages": "32–39",
+      "source_section": "capítulo 3"
+    },
+    {
+      "chapter": 4,
+      "title": "Verbalização da headline",
+      "pdf_pages": "40–45",
+      "source_section": "capítulo 4"
+    },
+    {
+      "chapter": 5,
+      "title": "Planejamento criativo",
+      "pdf_pages": "46–49",
+      "source_section": "capítulo 5"
+    },
+    {
+      "chapter": 6,
+      "title": "Desejo, identificação e crenças",
+      "pdf_pages": "50–53",
+      "source_section": "capítulo 6"
+    },
+    {
+      "chapter": 7,
+      "title": "Intensificação",
+      "pdf_pages": "54–58",
+      "source_section": "capítulo 7"
+    },
+    {
+      "chapter": 8,
+      "title": "Identificação",
+      "pdf_pages": "59–66",
+      "source_section": "capítulo 8"
+    },
+    {
+      "chapter": 9,
+      "title": "Graduação e arquitetura das convicções",
+      "pdf_pages": "67–77",
+      "source_section": "capítulo 9"
+    },
+    {
+      "chapter": 10,
+      "title": "Redefinição",
+      "pdf_pages": "78–81",
+      "source_section": "capítulo 10"
+    },
+    {
+      "chapter": 11,
+      "title": "Mecanização",
+      "pdf_pages": "82–86",
+      "source_section": "capítulo 11"
+    },
+    {
+      "chapter": 12,
+      "title": "Concentração",
+      "pdf_pages": "87–89",
+      "source_section": "capítulo 12"
+    },
+    {
+      "chapter": 13,
+      "title": "Camuflagem e franqueza",
+      "pdf_pages": "90–92",
+      "source_section": "capítulo 13"
+    },
+    {
+      "chapter": 14,
+      "title": "Toques finais e integração",
+      "pdf_pages": "93–102",
+      "source_section": "capítulo 14"
+    }
+  ],
+  "limitations": "A fonte declara ser uma tradução resumida. A cobertura se restringe aos 14 capítulos presentes nela; não equivale ao livro integral. Os exemplos adaptados pela edição não devem ser atribuídos como citações literais de Schwartz. Consciência do comprador e sofisticação do mercado são diagnósticos distintos.",
+  "content": "Síntese operacional; não contém o texto integral do livro.",
+  "packaging": "Referência incorporada à skill copywriting; nome local do PDF omitido. O hash identifica a edição utilizada."
+}

@@ -1,0 +1,122 @@
+{
+  "title": "$100M Offers",
+  "author": "Alex Hormozi",
+  "source_sha256": "42b3b7031a0314ce1d2101826ec317bf68d6c7c5b03098f1b8cb4e29241d5842",
+  "pdf_pages": 191,
+  "edition_note": "Edição fornecida em tradução automática para português, 191 páginas; original de 2021.",
+  "converter": {
+    "repository": "https://github.com/virgiliojr94/book-to-skill",
+    "commit": "a24e62f4d8caf2ee433f6e48d9073800f56f906e",
+    "mode": "text"
+  },
+  "extraction": "book-to-skill/scripts/extract.py com pypdf; equação de valor e figuras selecionadas conferidas visualmente.",
+  "generated": "2026-10-23",
+  "language": "pt-BR",
+  "coverage": [
+    {
+      "chapter": 1,
+      "title": "Como chegamos aqui",
+      "pdf_pages": "16–23",
+      "source_section": "capítulo 1"
+    },
+    {
+      "chapter": 2,
+      "title": "Grand Slam Offers",
+      "pdf_pages": "24–32",
+      "source_section": "capítulo 2"
+    },
+    {
+      "chapter": 3,
+      "title": "O problema da commodity",
+      "pdf_pages": "36–45",
+      "source_section": "capítulo 3"
+    },
+    {
+      "chapter": 4,
+      "title": "Mercado certo e multidão faminta",
+      "pdf_pages": "46–57",
+      "source_section": "capítulo 4"
+    },
+    {
+      "chapter": 5,
+      "title": "Cobrar pelo valor",
+      "pdf_pages": "58–69",
+      "source_section": "capítulo 5"
+    },
+    {
+      "chapter": 6,
+      "title": "A equação de valor",
+      "pdf_pages": "73–87",
+      "source_section": "capítulo 6"
+    },
+    {
+      "chapter": 7,
+      "title": "Goodwill e contribuição",
+      "pdf_pages": "88–89",
+      "source_section": "capítulo 7"
+    },
+    {
+      "chapter": 8,
+      "title": "Pensamento convergente e divergente",
+      "pdf_pages": "90–94",
+      "source_section": "capítulo 8"
+    },
+    {
+      "chapter": 9,
+      "title": "Problemas e soluções",
+      "pdf_pages": "95–104",
+      "source_section": "capítulo 9"
+    },
+    {
+      "chapter": 10,
+      "title": "Trim & Stack e veículos de entrega",
+      "pdf_pages": "105–117",
+      "source_section": "capítulo 10"
+    },
+    {
+      "chapter": 11,
+      "title": "Aprimorar a oferta",
+      "pdf_pages": "122–130",
+      "source_section": "capítulo 11"
+    },
+    {
+      "chapter": 12,
+      "title": "Escassez",
+      "pdf_pages": "132–139",
+      "source_section": "capítulo 12"
+    },
+    {
+      "chapter": 13,
+      "title": "Urgência",
+      "pdf_pages": "141–145",
+      "source_section": "capítulo 13"
+    },
+    {
+      "chapter": 14,
+      "title": "Bônus",
+      "pdf_pages": "147–154",
+      "source_section": "capítulo 14"
+    },
+    {
+      "chapter": 15,
+      "title": "Garantias e reversão de risco",
+      "pdf_pages": "156–170",
+      "source_section": "capítulo 15"
+    },
+    {
+      "chapter": 16,
+      "title": "Nomeação com MAGIC",
+      "pdf_pages": "172–181",
+      "source_section": "capítulo 16"
+    },
+    {
+      "chapter": 17,
+      "title": "Execução e primeiros resultados",
+      "pdf_pages": "185–190",
+      "source_section": "Seção V: Seus primeiros $100.000"
+    }
+  ],
+  "limitations": "A tradução automática contém inversões de ordem, termos inadequados e trechos em imagens. Os nomes de métodos foram normalizados pelo contexto; não trate formulações portuguesas como citações exatas. O modelo de valor é uma heurística, não uma fórmula para calcular um preço objetivo. Resultados empresariais e exemplos financeiros históricos não são projeções para o usuário.",
+  "content": "Síntese operacional; não contém o texto integral do livro.",
+  "packaging": "Referência incorporada à skill copywriting; nome local do PDF omitido. O hash identifica a edição utilizada."
+}

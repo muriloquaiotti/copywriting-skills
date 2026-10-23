@@ -1,0 +1,80 @@
+{
+  "title": "Great Leads",
+  "author": "Michael Masterson e John Forde",
+  "source_sha256": "ec13678a885adef239f62e4fb06dfd844d795d1c6033c81fe788198257201915",
+  "pdf_pages": 206,
+  "edition_note": "Tradução brasileira, Empiricus, 2017; original de 2011; PDF digitalizado de 206 páginas.",
+  "converter": {
+    "repository": "https://github.com/virgiliojr94/book-to-skill",
+    "commit": "a24e62f4d8caf2ee433f6e48d9073800f56f906e",
+    "mode": "text"
+  },
+  "extraction": "OCR local Apple Vision das 206 páginas; texto reconhecido processado por book-to-skill/scripts/extract.py em modo text.",
+  "generated": "2026-10-23",
+  "language": "pt-BR",
+  "coverage": [
+    {
+      "chapter": 1,
+      "title": "A Regra do Um",
+      "pdf_pages": "24–37",
+      "source_section": "capítulo 1"
+    },
+    {
+      "chapter": 2,
+      "title": "O que o cliente já sabe?",
+      "pdf_pages": "39–52",
+      "source_section": "capítulo 2"
+    },
+    {
+      "chapter": 3,
+      "title": "Direto ou indireto",
+      "pdf_pages": "54–68",
+      "source_section": "capítulo 3"
+    },
+    {
+      "chapter": 4,
+      "title": "Lead de oferta",
+      "pdf_pages": "70–86",
+      "source_section": "capítulo 4"
+    },
+    {
+      "chapter": 5,
+      "title": "Lead de promessa",
+      "pdf_pages": "88–104",
+      "source_section": "capítulo 5"
+    },
+    {
+      "chapter": 6,
+      "title": "Lead de problema-solução",
+      "pdf_pages": "106–122",
+      "source_section": "capítulo 6"
+    },
+    {
+      "chapter": 7,
+      "title": "Lead do grande segredo",
+      "pdf_pages": "124–155",
+      "source_section": "capítulo 7"
+    },
+    {
+      "chapter": 8,
+      "title": "Lead de revelação — Proclamation Lead",
+      "pdf_pages": "158–173",
+      "source_section": "capítulo 8"
+    },
+    {
+      "chapter": 9,
+      "title": "Lead de história",
+      "pdf_pages": "175–191",
+      "source_section": "capítulo 9"
+    },
+    {
+      "chapter": 10,
+      "title": "Fazendo o sistema funcionar",
+      "pdf_pages": "193–205",
+      "source_section": "capítulo 10"
+    }
+  ],
+  "limitations": "Fonte obtida por OCR. Alguns anúncios reproduzidos em miniatura têm texto pouco legível; as regras foram extraídas da discussão dos autores, sem reconstruir transcrições incertas. As páginas citadas são as do PDF. Adaptações para VSL, e-mail ou anúncio curto são aplicações do método, não formatos novos atribuídos ao livro. Não use resultados históricos como previsão.",
+  "content": "Síntese operacional; não contém o texto integral do livro.",
+  "packaging": "Referência incorporada à skill copywriting; nome local do PDF omitido. O hash identifica a edição utilizada."
+}

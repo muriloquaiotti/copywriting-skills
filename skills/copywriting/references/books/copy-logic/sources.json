@@ -1,0 +1,74 @@
+{
+  "title": "Copy Logic",
+  "author": "Michael Masterson e Mike Palmer",
+  "source_sha256": "5f9c1f0a7b6db3d93b401c909e9d25754f6ac5ad6c5bcd6045d6252c376d1d1c",
+  "pdf_pages": 112,
+  "edition_note": "Tradução brasileira, Empiricus/AWAI, 2017; PDF digitalizado de 112 páginas.",
+  "converter": {
+    "repository": "https://github.com/virgiliojr94/book-to-skill",
+    "commit": "a24e62f4d8caf2ee433f6e48d9073800f56f906e",
+    "mode": "text"
+  },
+  "extraction": "OCR local Apple Vision das 112 páginas; texto resultante processado por book-to-skill/scripts/extract.py em modo text.",
+  "generated": "2026-10-23",
+  "language": "pt-BR",
+  "coverage": [
+    {
+      "chapter": 1,
+      "title": "Os três métodos de Copy Logic",
+      "pdf_pages": "13–18",
+      "source_section": "capítulo 1"
+    },
+    {
+      "chapter": 2,
+      "title": "Da crítica à criatividade",
+      "pdf_pages": "19–28",
+      "source_section": "capítulo 2"
+    },
+    {
+      "chapter": 3,
+      "title": "Peer Review em ação",
+      "pdf_pages": "29–53",
+      "source_section": "capítulo 3"
+    },
+    {
+      "chapter": 4,
+      "title": "Regras do Peer Review",
+      "pdf_pages": "54–69",
+      "source_section": "capítulo 4"
+    },
+    {
+      "chapter": 5,
+      "title": "Crítica CUB",
+      "pdf_pages": "70–75",
+      "source_section": "capítulo 5"
+    },
+    {
+      "chapter": 6,
+      "title": "Eliminar partes confusas",
+      "pdf_pages": "76–83",
+      "source_section": "capítulo 6"
+    },
+    {
+      "chapter": 7,
+      "title": "Eliminar partes inverossímeis",
+      "pdf_pages": "84–91",
+      "source_section": "capítulo 7"
+    },
+    {
+      "chapter": 8,
+      "title": "Eliminar partes tediosas",
+      "pdf_pages": "92–97",
+      "source_section": "capítulo 8"
+    },
+    {
+      "chapter": 9,
+      "title": "Banco de quatro pés",
+      "pdf_pages": "98–110",
+      "source_section": "capítulo 9"
+    }
+  ],
+  "limitations": "A fonte foi lida por OCR, sujeito a erros em nomes, números e anúncios reproduzidos. Referências usam páginas do PDF, não a paginação impressa. Revisão por um agente é uma adaptação analítica; não representa reações observadas de consumidores nem um Peer Review real com quatro a seis pessoas. Não invente votos, médias ou consenso.",
+  "content": "Síntese operacional; não contém o texto integral do livro.",
+  "packaging": "Referência incorporada à skill copywriting; nome local do PDF omitido. O hash identifica a edição utilizada."
+}
