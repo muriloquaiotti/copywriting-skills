@@ -4,6 +4,10 @@ Uma skill em português para agentes de IA criarem e analisarem **anúncios, VSL
 
 A entrada única é **`copywriting`**. Ela inclui referências sintetizadas de cinco livros, com 59 arquivos de capítulos ou seções, e carrega somente o material pertinente ao pedido. Funciona sem os PDFs e sem instalar cinco outras skills.
 
+## Distribuição leve
+
+O conteúdo versionado ocupa aproximadamente **200 KB** e inclui a skill, suas referências, exemplos e scripts de instalação e validação. A skill funciona com arquivos de texto e dispensa os PDFs, o conversor book-to-skill e o ambiente Python usado na extração. Os materiais-fonte do projeto de origem ficam fora desta distribuição.
+
 ## Instalação
 
 Requer Git e Python 3.9 ou superior para usar o instalador. A skill em si contém Markdown e não exige Python, API paga ou ferramenta específica de navegação.
